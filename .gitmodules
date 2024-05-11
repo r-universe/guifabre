@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "banffIT"]
-	path = banffIT
-	url = https://github.com/cran/banffIT
 [submodule "fabR"]
 	path = fabR
 	url = https://github.com/guifabre/fabr
